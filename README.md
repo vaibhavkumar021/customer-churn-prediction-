@@ -182,3 +182,8 @@ Model predictions are estimates based on historical data. Associations in the da
 
 #### Logistic Regression Confusion Matrix
 ![Logistic Regression Confusion Matrix](screenshots/model-comparison/logistic-regression-confusion-matrix.png)
+
+
+## 🚀 Live Demo
+
+[**Open Customer Churn Prediction App**](https://c2qkbohezfs7yabmuy9qr3.streamlit.app/)
